@@ -1,6 +1,3 @@
-# Coded by Yusuf Kibar
-# .-. coding: utf-8 .-.
-
 import colorama
 from colorama import Fore
 import bs4
